@@ -1,0 +1,9 @@
+# 4.  Write a program to print all odd numbers between 1 and 50.
+
+num = 1
+
+while(num <= 50):
+    if num % 2 != 0:
+        print(num)
+    num += 1
+    
