@@ -1,0 +1,7 @@
+prasad - python
+nikhil - full stack
+sujata - sql
+gauri - sql
+katta - java
+pranav - cyber
+rutuja - js

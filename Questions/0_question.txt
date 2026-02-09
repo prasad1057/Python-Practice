@@ -1,0 +1,40 @@
+☐ Square Root of a Number - done
+☐ Square Root Using If-Else - done
+☐ Area of a Triangle- done 
+☐ Swap Two Variables - done 
+☐ Check Even or Odd - done
+☐ Check Positive, Negative or Zero - done
+☐ Find Largest of Three Numbers- done
+☐ Leap Year Check -done
+☐ Factorial of a Number - done
+☐ Fibonacci Series - done
+☐ Prime Number Check - done
+☐ Prime Numbers in a Given Range
+☐ Reverse a Number
+☐ Palindrome Number
+☐ Armstrong Number
+☐ Sum of Digits
+☐ Count Digits in a Number
+☐ Multiplication Table
+☐ Power of a Number
+☐ GCD of Two Numbers
+☐ LCM of Two Numbers
+☐ Simple Calculator
+☐ Number Guessing Game
+☐ Pattern Printing (Stars)
+☐ List Sum and Average
+☐ Find Maximum and Minimum in List
+☐ Remove Duplicates from List
+☐ String Palindrome
+☐ Count Vowels in a String
+☐ Reverse a String
+☐ Check Anagram
+☐ File Handling Basics
+☐ Exception Handling
+☐ Dictionary Operations
+☐ Set Operations
+☐ Functions and Arguments
+☐ Lambda Function
+☐ Basic OOP Program
+☐ Class and Object Example
+☐ Inheritance Example
