@@ -18,7 +18,7 @@ print(my_new_car.model)
 class Bike():
     def __init__(self, brand, model, color):
         self.brand = brand
-        self.model = model 
+        self.model = model
         self.color = color
         
 my_bike = Bike('Honda', 'Ninja', 'Black')
