@@ -11,7 +11,7 @@ def listfun(num):
     return list1
 
 
-def minMax(result ):
+def minMax(result):
     
     maximum = result[0]
     minimum = result[0]

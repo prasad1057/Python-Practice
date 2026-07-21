@@ -15,7 +15,7 @@ print("Enter elements of Matrix 2")
 
 for i in range(2):
     row = []
-    for j in range(2):
+    for j in range(2): 
         ele = int(input(f"Enter element [{i}][{j}]: "))
         row.append(ele)
     matrix2.append(row)
